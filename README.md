@@ -3,7 +3,7 @@ Welcome to Archive! All archived versions are stored here. Enjoy
 
 ## Currently Archived
 **The following versions are archived:**
-- Version Alpha 0.1.0 (20261114)
+- Version Alpha 0.2.0 (20261114)
 
 
 ## Licence
